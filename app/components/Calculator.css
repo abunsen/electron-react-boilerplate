@@ -1,0 +1,7 @@
+.currentInput {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.3);
+  min-height: 50px;
+  font-size: 3em;
+  text-align: right;
+}
